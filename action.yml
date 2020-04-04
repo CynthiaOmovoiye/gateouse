@@ -4,4 +4,5 @@
     msg: 'Click here to preview HTML page in browser'
     html_file: 'index.html'
     gh_token: ${{ secrets.pview }}
-    
+
+  
