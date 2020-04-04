@@ -3,4 +3,4 @@
   with:
     msg: 'Click here to preview HTML page in browser'
     html_file: 'index.html'
-    gh_token: ${{ secrets.GITHUB_TOKEN }}
+    gh_token: ${{ secrets.pview }}
