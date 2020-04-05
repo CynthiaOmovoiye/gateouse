@@ -9,4 +9,3 @@ jobs:
       - uses: pavi2410/html-preview-action@master
       - name: Get HTML preview link
         uses: ./
-        - name: HTML Preview
