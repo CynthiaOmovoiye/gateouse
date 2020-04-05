@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     name: HTML Preview
     steps:
-      - uses: pavi2410/html-preview-action@master
+      - uses: actions/checkout@v2
       - name: Get HTML preview link
         uses: ./
